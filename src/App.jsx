@@ -58,6 +58,9 @@ const App = () => {
         />
       </div>
       <h1>HI theree</h1>
+      <div>
+        samle commits are now on
+      </div>
     </div>
   );
 };
