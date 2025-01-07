@@ -59,7 +59,7 @@ const App = () => {
       </div>
       <h1>HI theree</h1>
       <div>
-        samle commits are hfdhjkfartgk;sm;m ; g gddgvd
+        asfgsjakgjkljsafld
       </div>
     </div>
   );
